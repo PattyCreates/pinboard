@@ -122,13 +122,13 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass (~> 3.2.0.2)
   coffee-rails (~> 4.0.0)
-  haml (~> 4.0.5)
+  haml (~> 4.0.6)
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.1.4)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
-  simple_form (~> 3.0.2)
+  simple_form (~> 3.0.3)
   spring
   sqlite3
   turbolinks
